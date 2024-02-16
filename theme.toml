@@ -1,18 +1,18 @@
-name = "after-dark"
-description = "A robust, elegant dark theme"
+name = "Sport Zone"
+description = "# Sport Zone-comércio De Artigos Desportivos Sa"
 license = "MIT"
-homepage = "https://github.com/getzola/after-dark"
+homepage = "https://connora13121212.github.io/rsportline/"
 min_version = "0.17.0"
-demo = "https://getzola.github.io/after-dark/"
+demo = "https://connora13121212.github.io/rsportline/"
 
 [extra]
 
 
 [author]
 name = "Vincent Prouillet"
-homepage = "https://www.vincentprouillet.com"
+homepage = "https://connora13121212.github.io/rsportline/"
 
 [original]
 author =  "comfusion"
-homepage = "https://git.habd.as/comfusion/after-dark/"
-repo = "https://git.habd.as/comfusion/after-dark/"
+homepage = "https://connora13121212.github.io/rsportline/"
+repo = "https://connora13121212.github.io/rsportline/"
