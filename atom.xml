@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Sport Zone</title>
+    <subtitle># Sport Zone-comércio De Artigos Desportivos Sa</subtitle>
+    <link href="https://connora13121212.github.io/rsportline/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://connora13121212.github.io/rsportline/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2017-09-25T00:00:00+00:00</updated>
+    <id>https://connora13121212.github.io/rsportline/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Mergulhe na emoção!</title>
+        <published>2017-09-25T00:00:00+00:00</published>
+        <updated>2017-09-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://connora13121212.github.io/rsportline/some-other-article/" type="text/html"/>
+        <id>https://connora13121212.github.io/rsportline/some-other-article/</id>
+        
+        <summary type="html">&lt;p&gt;Mergulhe na emoção! Assista ao jogo através do link abaixo.
+&lt;strong&gt;Cansado da rotina? Deseja uma dose de adrenalina e entretenimento?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Então, não perca tempo! Acesse o link [insira o link do jogo] e prepare-se para uma experiência imersiva e emocionante.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Uma disputa acirrada e imperdível te espera!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Mergulhe na emoção! Assista ao jogo através do link abaixo.</title>
+        <published>2017-09-24T00:00:00+00:00</published>
+        <updated>2017-09-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://connora13121212.github.io/rsportline/some-article/" type="text/html"/>
+        <id>https://connora13121212.github.io/rsportline/some-article/</id>
+        
+        <summary type="html">&lt;p&gt;&lt;strong&gt;Cansado da rotina? Deseja uma dose de adrenalina e entretenimento?&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Então, não perca tempo! Acesse o link [insira o link do jogo] e prepare-se para uma experiência imersiva e emocionante.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Uma disputa acirrada e imperdível te espera!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
